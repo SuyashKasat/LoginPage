@@ -1,0 +1,40 @@
+@media only screen and (min-width: 0px) and (max-width: 425px) {
+  .site {
+    font-size: x-small;
+    display: flex;
+    padding-top: 0;
+  }
+}
+.container{
+margin-top:50px;
+
+
+}
+.col-md-4{
+align:center}
+
+.form-floating{
+ height:70px;
+}
+
+
+h1{
+background-color:MediumAquaMarine
+}
+
+
+.container1{
+background-color:MediumAquaMarine;
+margin-top:35px;
+margin-bottom:0px
+}
+
+body{
+background-color:MintCream}
+
+.image{
+height:200px;
+margin-top:25px}
+
+
+
